@@ -10,4 +10,11 @@ modify in branch dev
 Creating a new branch is quick and simple.
 
 
+<<<<<<< HEAD
 Test stash
+=======
+
+
+啊啊啊啊aaa
+
+>>>>>>> dev
